@@ -36,4 +36,4 @@ _Параграф 3_
    MyCkass myClass = new();
 ```
 
-Мой строчный код `MyCkass myClass = new();`C# идёт в строке
+Мой строчный код `MyCkass myClass = new();` C# идёт в строке
