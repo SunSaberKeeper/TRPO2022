@@ -43,3 +43,7 @@ _Параграф 3_
 Это ссылка на сайт [сайт](https://rsu.edu.ru "Сайт университета")
 
 Это ссылка на почту <legion111110110000@yandex.ru>
+
+### Картинка
+
+![MarkDown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Изображение")
